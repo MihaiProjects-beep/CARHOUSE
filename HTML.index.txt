@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Home</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="homepage">
+
+  <nav>
+    <img src="your-image-here.png" alt="Logo" />
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="contact.html">Contact Us</a></li>
+    </ul>
+  </nav>
+
+  <img src="your-photo-here.jpg" alt="Main Photo" class="home-photo" />
+
+  <div class="text-box">
+    <h2>Welcome to My Site</h2>
+    <p>This is your editable text box. Write whatever you want here.</p>
+  </div>
+
+</body>
+</html>

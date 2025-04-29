@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Contact Us</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="contact-page">
+
+  <nav>
+    <img src="your-image-here.png" alt="Logo" />
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="contact.html">Contact Us</a></li>
+    </ul>
+  </nav>
+
+  <div class="contact-box">
+    <h2>Contact Us</h2>
+    <p>This is your editable contact section. You can add your email, a form, or anything here.</p>
+  </div>
+
+</body>
+</html>
